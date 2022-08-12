@@ -3,9 +3,10 @@ Index do repositório de estudos
 
 ### 2022 ###
 - [C#](https://github.com/studiesofdan/Coder-CSharp)
+- [.NET](https://docs.microsoft.com/en-us/learn/paths/build-dotnet-applications-csharp/)
 - [React](https://github.com/studiesofdan/mb-react-zero-a-maestria)
-- [Node.js](https://www.udemy.com/course/nodejs-do-zero-a-maestria-com-diversos-projetos/)
-- [TypeScript](https://www.udemy.com/course/typescript-do-basico-ao-avancado-c-react-express/)
+- [Node.js](https://github.com/studiesofdan/mb-nodejs-zero-a-maestria)
+- [TypeScript](https://github.com/studiesofdan/mb-typescript-basico-ao-avancado)
 - [Angular (revisão)](https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw)
 - [Java (intermediário)](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)
 
